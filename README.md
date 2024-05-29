@@ -1,8 +1,12 @@
-# React + Vite
+دستور lscpu در سیستم‌عامل‌های مبتنی بر Linux برای نمایش اطلاعات مربوط به CPU استفاده می‌شود. این دستور اطلاعاتی مانند تعداد هسته‌ها، تعداد پردازنده‌ها، معماری CPU و ... را نمایش می‌دهد. برای اجرای این دستور، به ترمینال یا خط فرمان سیستم خود متصل شده و دستور lscpu را وارد کنید.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+دستور df -m در سیستم‌عامل‌های مبتنی بر Linux برای نمایش اطلاعات مربوط به دیسک و فضای آزاد در هر پارتیشن استفاده می‌شود. با استفاده از پارامتر -m، اطلاعات فضای آزاد و استفاده شده در مگابایت نمایش داده می‌شود.
 
-Currently, two official plugins are available:
+دستور ifconfig -a برای نمایش اطلاعات مربوط به تمام رابط‌های شبکه (شامل رابط‌های فعال و غیرفعال) در سیستم عامل‌های مبتنی بر Unix و Linux استفاده می‌شود. این دستور اطلاعاتی از جمله آدرس IP، ماسک زیرشبکه، MAC address و وضعیت رابط شبکه را نمایش می‌دهد.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+دستور find برای جستجوی و پیدا کردن فایل‌ها و دایرکتوری‌ها در سیستم فایل Unix و Linux استفاده می‌شود. این دستور امکانات گسترده‌ای برای جستجو بر اساس نام فایل، نوع فایل، تاریخ ایجاد، اندازه و موارد دیگر را فراهم می‌کند.
+find [مسیر] [پارامترها]
+
+توضیح Atom Editor / Brackets دو تا از ادیتورهای معروف لینوکس هر دو ادیتورهای متن باز محبوب برای توسعه دهندگان نرم افزار این ادیتور به خصوص برای توسعه و ویرایش کدهای HTML، CSS و JavaScript طراحی شده است.
+
+
